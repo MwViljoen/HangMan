@@ -1,0 +1,18 @@
+.letter-container{
+    text-align: center;
+    padding: 20px;
+    margin: 2px;
+    width: auto;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 3px;
+}
+
+.letter-container>h5{
+    margin: 0;
+    height: 25px;
+    width: 25px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}

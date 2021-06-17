@@ -1,0 +1,27 @@
+.letter-wrapper{
+    margin: 5px;
+    padding: 5px;
+    width: 5%;
+    height: 50px;
+    border-bottom: 5px solid white;
+}
+
+.letter-wrapper1{
+    margin: 5px;
+    padding: 5px;
+    width: 5%;
+    height: 50px;
+    border-bottom: 5px solid white;
+}
+
+.letter-wrapper>h2{
+    color: lawngreen;
+}
+
+.letter-wrapper1>h2{
+    color: red;
+}
+
+.letter-wrapper>h6{
+    color: red;
+}

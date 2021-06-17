@@ -1,0 +1,17 @@
+.help-container{
+    background-color: rgba(0,0,0,0.6);
+    margin: 5px;
+    border: 1px solid rgb(0,0,255);
+    border-radius: 5px;
+    color: white;
+}
+
+.help-heading{
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+    list-style-position: inside;
+    font-size: 25px;
+}

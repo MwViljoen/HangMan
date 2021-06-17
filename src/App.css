@@ -1,0 +1,26 @@
+.App{
+    background-color: #4e555d;
+    color: white;
+}
+
+.grid-container{
+    margin: 0;
+    padding: 0;
+}
+
+.reset-button{
+    display: flex;
+    justify-content: center;
+    padding: 13px;
+    background-color: rgba(0,0,0, 0.3);
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid rgb(0, 96, 255);
+}
+
+.reset-button>button{
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    border-color: gray;
+}

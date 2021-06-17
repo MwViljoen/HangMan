@@ -1,0 +1,13 @@
+.header-menu{
+    text-decoration: none;
+}
+
+.header-menu>a>div{
+    color: white;
+    font-weight: bold;
+    min-width: 36px;
+}
+
+a{
+    text-decoration: none;
+}

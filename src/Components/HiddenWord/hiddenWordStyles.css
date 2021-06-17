@@ -1,0 +1,12 @@
+.hidden-word-container{
+    background-color: rgba(0,0,0, 0.6);
+    text-align: center;
+    margin: 5px 0 5px 0;
+    border-radius: 5px;
+    border: 1px solid rgb(0, 96, 255);
+}
+
+.hidden-letters{
+    display: flex;
+    justify-content: center;
+}
