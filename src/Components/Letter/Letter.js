@@ -11,8 +11,8 @@ class Letter extends Component {
     * from here we can almost do anything in this case we are passing the outer text which is the
     * letter to the parent using state up and passes through the parent of Letter.js which is
     * Letters.js and from there is passed to Main parent App.js*/
-    handleClick(e) {
-        this.props.onLetterClick(e.target.outerText);
+    handleClick() {
+        this.props.onLetterClick(this.props.letter);
     }
     // here we render based on props
     /*Firstly we use this component in 2 places currently "Letters" and "PickedLetterBox"

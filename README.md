@@ -24,27 +24,19 @@ HAPPY HANGING!!!
 ## `Cloning Repository`
 
 Use git to clone the repo from here [https://github.com/MwViljoen/Hangman](https://github.com/MwViljoen/Hangman)
-found on github in the above link to copy to local machine.
+found on GitHub in the above repo to copy to local machine.
 
 ### `nodejs`
 
 Make sure nodeJS is installed on your computer here is a link if needed [https://nodejs.org/en/](https://nodejs.org/en/)
 
-Once node is installed use command line in cloned folder and type `npm start`
-To verify node and npm was installed successfully type `node -v` and `npm -v` in console.
+To verify node and npm was installed successfully type `node -v` and `npm -v` in console, a version will be printed.
+Once node is installed use command line/bash in cloned folder and type `npm install`.
+After installation of modules are complete type npm start in console to run React Application.
 
 ### `npm start`
 
-Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### Images of Project
 
