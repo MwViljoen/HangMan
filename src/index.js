@@ -16,12 +16,11 @@ ReactDOM.render(
   <React.StrictMode>
     <BrowserRouter>
         <Header/>
-        <Route path="/" exact={true}
+        <Route path="/HangMan" exact={true}
                render={() =>
                    <App word={getrandomWord(words.length)}/>}
         />
-        <Route path="/help" component={Help}/>
-
+        <Route path="/HangMan/help" component={Help}/>
     </BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')

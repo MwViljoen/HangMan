@@ -7,7 +7,6 @@ import Col from 'react-bootstrap/Col'
 import "bootstrap/dist/css/bootstrap.min.css";
 // importing components
 import Letters from "./Components/LettersBox/Letters";
-import Header from "./Components/Header/Header";
 import HiddenWord from "./Components/HiddenWord/HiddenWord";
 import Hangman from "./Components/HangMan/Hangman";
 import PickedLettersBox from "./Components/PickedLettersBox/PickedLettersBox";

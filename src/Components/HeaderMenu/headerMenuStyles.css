@@ -1,11 +1,18 @@
 .header-menu{
     text-decoration: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
 }
 
-.header-menu>a>div{
+.header-menu-tile{
     color: white;
     font-weight: bold;
     min-width: 36px;
+}
+
+.header-menu-tile:hover{
+    color: black;
 }
 
 a{
